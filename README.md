@@ -23,7 +23,7 @@ Welcome to my Android development project repository! This repo contains a colle
 
 ## 📁 Project Structure
 
-Android-Projects/
+```Android-Projects/
 │
 ├── Java/
 │ ├── SimpleCalculator/
@@ -34,6 +34,7 @@ Android-Projects/
 │ ├── ToDoList/
 │ ├── NewsReader/
 │ └── MovieBrowser/
+```
 
 ## 📱 Projects Overview
 
