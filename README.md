@@ -74,7 +74,7 @@ Welcome to my Android development project repository! This repo contains a colle
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Android-Projects.git
+   git clone https://github.com/Jawad-Ahmad-M/Android-Projects.git
    
 2. Open the project in Android Studio.
 
